@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @EnriqueAnaya
 - 👀 I’m interested in FullStack Developer
-- 🌱 I’m currently learning HTML/CSS/JS
+- 🌱 I’m currently learning HTML/CSS/JS and PHP/MySQL/Laravel/Symphony
 - 💞️ I’m looking to collaborate on developer jobs
+-     I’m working in Agencia Aduanal Interenlace
 - 📫 How to reach me JEnrique.RiosAnaya@outlook.com
 
 <!---
